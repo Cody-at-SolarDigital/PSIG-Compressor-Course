@@ -1,9 +1,12 @@
 # PSIG-Compressor-Course
-Pipeline Simulation Interest Group short course on Centrifugal Compressors.  Material from Solar Turbines Inc.
 
-There are five exercises in total with each being its own Jupyter (Python) Notebook.
+<a href="https://psig.org/conference/pipeline-simulation-short-course/">
+Pipeline Simulation Interest Group Short Course</a> on Centrifugal Compressors.  Course material provided by Solar Turbines Inc.
 
-Click on the Binder link below to launch a JupyterLab environment, then on the left, click on the Exercise notebooks while progressing through the course.
+=============================================================================================================================================================
+- There are five exercises in total with each being its own Jupyter (Python) Notebook.
+
+> Click on the Binder link below to launch a JupyterLab environment, then on the left, click on the Exercise notebooks while progressing through the course.
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cody-at-SolarDigital/PSIG-Compressor-Course.git/HEAD)
