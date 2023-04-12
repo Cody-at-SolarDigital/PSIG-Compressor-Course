@@ -1,5 +1,5 @@
 # PSIG-Compressor-Course
-Pipeline Simulation Interest Group short course on Centrifugal Compressors
+Pipeline Simulation Interest Group short course on Centrifugal Compressors.  Material from Solar Turbines Inc.
 
 There are five exercises in total with each being its own Jupyter (Python) Notebook.
 
