@@ -3,7 +3,7 @@
 <a href="https://psig.org/conference/pipeline-simulation-short-course/">
 Pipeline Simulation Interest Group Short Course</a> on Centrifugal Compressors.  Course material provided by Solar Turbines Inc.
 
-=============================================================================================================================================================
+============================================================================================
 - There are five exercises in total with each being its own Jupyter (Python) Notebook.
 
 > Click on the Binder link below to launch a JupyterLab environment, then on the left, click on the Exercise notebooks while progressing through the course.
