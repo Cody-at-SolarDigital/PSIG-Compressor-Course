@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scipy
+Jupyter_client==7.3.2
+tornado==6.1
+jupyter
