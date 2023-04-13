@@ -3,6 +3,8 @@
 <a href="https://psig.org/conference/pipeline-simulation-short-course/">
 Pipeline Simulation Interest Group Short Course</a> on Centrifugal Compressors.  
 
+<br>
+
 Course material provided by <a href="https://www.solarturbines.com/en_US.html">Solar Turbines Inc.</a>
 
 ============================================================================================
