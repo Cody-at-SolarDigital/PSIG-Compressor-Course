@@ -13,4 +13,4 @@ Course material provided by <a href="https://www.solarturbines.com/en_US.html">S
 > Click on the Binder link below to launch a JupyterLab environment, then on the left, click on the Exercise notebooks while progressing through the course.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cody-at-SolarDigital/PSIG-Compressor-Course.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Cody-at-SolarTurbines/PSIG-Compressor-Course/HEAD)
