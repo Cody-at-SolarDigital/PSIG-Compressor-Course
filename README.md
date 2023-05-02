@@ -1,4 +1,6 @@
-# PSIG-Compressor-Course
+=======================
+PSIG-Compressor-Course
+=======================
 
 <a href="https://psig.org/conference/pipeline-simulation-short-course/">
 Pipeline Simulation Interest Group Short Course</a> on Centrifugal Compressors.  
